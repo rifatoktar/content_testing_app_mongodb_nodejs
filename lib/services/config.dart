@@ -1,4 +1,4 @@
-final url = 'http://192.168.1.108:3000/';
+final url = 'http://YOUR_IPV4_VALUE:3000/';
 
 final registration = url + 'registration';
 
