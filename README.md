@@ -1,6 +1,6 @@
 # sloshy
 
-Content Testing App UI Design with Flutter, MongoDB, Express NodeJS and Figma
+Content Testing App Full Stack Design with Flutter, MongoDB, Express NodeJS and Figma
 
 You can observe to predesign process in Figma
 
