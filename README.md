@@ -25,7 +25,7 @@ For more detail about MongoDB and NodeJS you can visit to:
 - https://nodejs.org/en
 
 # 💫 About Me:
-I'm currently working on enhance myself. I'm looking to collaborate on more flutter apps development. I'm looking for help from who has a mentor enhancing myself about flutter apps development. I'm currently learning UI/UX designing and developing with HTML5, CSS3, JS, Flutter and Bootstrap. Ask me about Flutter Front-End development and UI designing through Figma and Adobe XD. fun fact is Flutter, HTML, CSS and JS have many package. Although, you gonna use only a couple of packages throughout Flutter app developing. 
+I'm currently working on enhance myself. I'm looking to collaborate on more flutter apps development. I'm looking for help from who has a mentor enhancing myself about flutter apps development. I'm currently learning UI/UX designing and developing with HTML5, CSS3, JS, Flutter, MongoDB, Express NodeJS and Bootstrap. Ask me about Flutter Front-End development and UI designing through Figma and Adobe XD. fun fact is Flutter, HTML, CSS and JS have many package. Although, you gonna use only a couple of packages throughout Flutter app developing. 
 
 
 ## 🌐 Socials:
